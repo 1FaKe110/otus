@@ -1,0 +1,33 @@
+# https://github.com/github/gitignore/blob/main/Python.gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+__pypackages__/
+
+# generated folers
+.idea
+.git
+
+# Environments
+.venv
+venv/
+venv.bak/
+
+# build folders
+build/
+dist/
+downloads/
+
+# output folders
+cache/
+output/
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Cython debug symbols
+cython_debug/
