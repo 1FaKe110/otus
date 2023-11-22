@@ -7,7 +7,7 @@ from src.repo.user import User
 
 BOOKS_PATH = './input/books.csv'
 USERS_PATH = './input/users.json'
-REFERENCE_PATH = './output/reference.json'
+REFERENCE_PATH = 'reference.json'
 as_class = DefaultMunch.fromDict
 
 
